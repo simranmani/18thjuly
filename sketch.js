@@ -12,8 +12,8 @@ function setup() {
 }
 function draw(){
   //declare variables
-  let posY =mouseX
-  let posX= mouseY
+  let posX =mouseX
+  let posY= mouseY
   //place a dot on a screen
   point(posX,posY);
 }
