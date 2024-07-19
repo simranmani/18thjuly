@@ -5,7 +5,7 @@ function setup() {
 // R G &B values
   background(142, 164, 250);
   //take a big brush
-  strokeWeight(10);
+  strokeWeight(50);
   // dip in purple color
   stroke("pink");
   frameRate(10);
